@@ -7,7 +7,7 @@ public class Main {
 
     private static final String url = "jdbc:mysql://localhost:3306/hotel_db";
     private static final String username = "root";
-    private static final String password = "Bhup#497";
+    private static final String password = "password";
 
     public static void main(String[] args) throws SQLException ,ClassNotFoundException{
        //driver loader
